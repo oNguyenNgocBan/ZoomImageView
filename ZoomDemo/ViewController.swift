@@ -10,8 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var zoomView: ZoomImageView!
+
     override func viewDidLoad() {
         super.viewDidLoad()
+        zoomView.loadImage(image: UIImage(named: "0"))
         // Do any additional setup after loading the view, typically from a nib.
     }
 

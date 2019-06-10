@@ -14,6 +14,7 @@
 		77F04C092251A9A800520831 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77F04C072251A9A800520831 /* LaunchScreen.storyboard */; };
 		77F04C112251A9DA00520831 /* ZoomImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F04C102251A9DA00520831 /* ZoomImageView.swift */; };
 		77F6CAEB22ADEB9400DCD412 /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F6CAEA22ADEB9400DCD412 /* AViewController.swift */; };
+		77F6CAED22ADEBCF00DCD412 /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F6CAEC22ADEBCF00DCD412 /* BViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		77F04C0A2251A9A800520831 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77F04C102251A9DA00520831 /* ZoomImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomImageView.swift; sourceTree = "<group>"; };
 		77F6CAEA22ADEB9400DCD412 /* AViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
+		77F6CAEC22ADEBCF00DCD412 /* BViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				77F04C002251A9A500520831 /* ViewController.swift */,
 				77F6CAEA22ADEB9400DCD412 /* AViewController.swift */,
 				77F04C102251A9DA00520831 /* ZoomImageView.swift */,
+				77F6CAEC22ADEBCF00DCD412 /* BViewController.swift */,
 				77F04C022251A9A500520831 /* Main.storyboard */,
 				77F04C052251A9A800520831 /* Assets.xcassets */,
 				77F04C072251A9A800520831 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				77F6CAEB22ADEB9400DCD412 /* AViewController.swift in Sources */,
 				77F04C012251A9A500520831 /* ViewController.swift in Sources */,
+				77F6CAED22ADEBCF00DCD412 /* BViewController.swift in Sources */,
 				77F04C112251A9DA00520831 /* ZoomImageView.swift in Sources */,
 				77F04BFF2251A9A500520831 /* AppDelegate.swift in Sources */,
 			);
